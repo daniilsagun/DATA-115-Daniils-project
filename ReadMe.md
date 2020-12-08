@@ -1,4 +1,4 @@
-# Do Business Owners Care About Politics
+# Do Business Owners Care About Politics(the README.ipynb has all the graphs correctly visualized)
 
 ## Motivation
   My main interest in this topic came from the recent 2020 election, how it seemed to take over everyones news and media and seemed to have a disproportionate impact on everyones lives. What I was interested in though was to what extent do Americans actually fear the results, the instability that shifts in power cause, and what impact do elections have on the public mindset. To test these questions I decided to analyze data on new business that where announced. This focus on new businesses being created is supposed to represent Americas mentality as a whole and how confident they are in starting new and risky endevours. As if the political climate is as disruptive and choatic to Amercian life as we are lead to believe then there should be a reduction of new business being born in fear of the election.
